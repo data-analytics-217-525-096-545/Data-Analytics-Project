@@ -1,7 +1,7 @@
 
 # Salary Prediction of Software Developers
 
-This is a salary prediction project using the Stack Overflow 2018 Developer Survey In the IT sector various features play a vital role in defining a good career as a developer. For developers seeking jobs, it would be beneficial if they had a model to predict the salary range based on various features like country, years of coding, developer type, degree, skillset, and programming languages
+This is a salary prediction project using the Stack Overflow 2018 Developer Survey In the IT sector various features play a vital role in defining a good career as a developer. For developers seeking jobs, it would be beneficial if they had a model to predict the salary range based on various features like country, years of coding, developer type, degree, skillset, and programming languages.
 
 ## Team Members :
 
